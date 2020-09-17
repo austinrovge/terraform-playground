@@ -1,0 +1,23 @@
+{
+  "name": "terraform-test",
+  "version": "1.0.0",
+  "description": "this is a test repo to mess with",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinrovge/terraform-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinrovge/terraform-test/issues"
+  },
+  "homepage": "https://github.com/austinrovge/terraform-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
